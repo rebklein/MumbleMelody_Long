@@ -105,7 +105,6 @@
             "mm:Whisper/week5_items/whisper_question2",
             "mm:Whisper/week5_items/whisper_reading1"
         ],
-        "inputType": "section",
         "shuffle": false
     }
 }
