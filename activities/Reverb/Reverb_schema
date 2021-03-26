@@ -105,7 +105,6 @@
             "mm:Reverb/week5_items/reverb_question2",
             "mm:Reverb/week5_items/reverb_reading1"
         ],
-        "inputType": "section",
         "shuffle": false
     }
 }
