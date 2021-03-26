@@ -105,7 +105,6 @@
             "mm:Raw/week5_items/raw_question2",
             "mm:Raw/week5_items/raw_reading1"
         ],
-        "inputType": "section",
         "shuffle": false
     }
 }
