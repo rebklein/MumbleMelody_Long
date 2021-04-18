@@ -51,6 +51,7 @@
         ],
         "shuffle": false,
         "allow": ["reproschema:AutoAdvance",
+		  "reproschema:DisableBack",
                   "reproschema:AllowExport"]
     }
 }
